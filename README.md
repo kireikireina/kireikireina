@@ -1,4 +1,4 @@
-# Hiyaaa!! I'm Kireina 👋
+# Hiyaaa!! I'm Kireina 👻
 
 <img src="https://github.com/kireikireina/kireikireina/blob/main/e6ed1d13-33ac-4627-9aca-1c3c94f97c91.jpg">
 
