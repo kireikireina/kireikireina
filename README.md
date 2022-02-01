@@ -1,5 +1,7 @@
 # Hiyaaa!! I'm Kireina 👋
 
+<img src="https://github.com/kireikireina/kireikireina/blob/main/e6ed1d13-33ac-4627-9aca-1c3c94f97c91.jpg">
+
 ### TMI
 ▷ Just another ordinary weeb chasing her computer science degree at Satya Wacana Christian University~ (although that i stated there that I'm a weeb, Kireina IS my real name, not an alias).
 
