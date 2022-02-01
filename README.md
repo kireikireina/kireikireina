@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hiyaaa!! I'm Kireina 👋
 
-<!--
-**kireikireina/kireikireina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### TMI
+▷ Just another ordinary weeb chasing her computer science degree at Satya Wacana Christian University~ (although that i stated there that I'm a weeb, Kireina IS my real name, not an alias).
 
-Here are some ideas to get you started:
+▷ Fluent in both Indonesian and English, understand Javanese and Japanese to a certain level :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▷ A shameless kendoka who'd tell everyone she barely met about her ((almost)) 7 years of kendo career, despite the fact that she has never achieve anything up to this point.
+
+### Why am I even here??
+I honestly don't know how does this platform work, one of my lecturer told me to be here, so here I am! (lol)
+
+I'm always looking for ways to improve, tho! Please look after me <3
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kireikireina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/holoitsmekireina/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/adzukee) 
