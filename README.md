@@ -1,4 +1,4 @@
-# Hiyaaa!! I'm Kireina 👻
+<h1 align=center> Hiyaaa!! I'm Kireina 👻 </h1>
 
 <img src="https://github.com/kireikireina/kireikireina/blob/main/e6ed1d13-33ac-4627-9aca-1c3c94f97c91.jpg">
 
@@ -14,4 +14,4 @@ I honestly don't exactly know how does this platform work 👀 one of my lecture
 
 I'm always looking for ways to improve, though! Please look after me <3
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/kireikireina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/holoitsmekireina/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/adzukee) 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kireikireina" height="30"/><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="holoitsmekireina" height="30" /><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adzukee" height="30"/>
