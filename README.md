@@ -7,7 +7,7 @@
 
 ▷ Fluent in both Indonesian and English, understand Javanese and Japanese to a certain level :)
 
-▷ A shameless kendoka who'd tell everyone I barely met about my 7 years of kendo career, despite the fact that I have never achieve anything up to this point 🤧
+▷ A shameless kendoka who'd tell everyone I barely met about my 9 years of kendo career, despite the fact that I have never achieve anything up to this point 🤧
 
 ### Why am I even here?? 💁
 I honestly don't exactly know how does this platform work 👀 one of my lecturer just told me to be here, so here I am! (lol)
