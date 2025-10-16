@@ -8,7 +8,6 @@
   • Introduction to Information Technology  
   • Discrete Mathematics  
   • Database Systems  
-🌐 Multilingual: Fluent in **Indonesian (Native)** & **English (TOEFL itp 537)**
 
 ### What I'm Up To 
 I'm passionate about building clean and user-friendly web apps. Currently sharpening my frontend and Java skills, and always exploring new tech to level up!
